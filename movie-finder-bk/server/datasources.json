@@ -1,0 +1,17 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongo": {
+    "host": "yes",
+    "port": 0,
+    "url": "mongodb+srv://admin:Moldir96@cluster0-ptddz.mongodb.net/movieApp?retryWrites=true&w=majority",
+    "database": "movieApp",
+    "password": "Moldir$96",
+    "name": "mongo",
+    "user": "talgat001@gmail.com",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
